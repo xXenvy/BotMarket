@@ -35,7 +35,7 @@ class BotUtils:
 
     @property
     def bot_token(self) -> str:
-        return "TOKEN"
+        return "MTExMTcxMzI3NDEyODUxMTEyNw.Gc-azU.H92xpaZPw1mRVFlmMQS0ggfXdTUQUwUOckp-6Q"
 
 
 class Avatars:
@@ -103,6 +103,7 @@ class Enums(Enum):
     welcomes_channel: int = 1111744038886981743
     goodbyes_channel: int = 1111744040954761338
 
+    tickets_category: int = 1112063264084459560
 
 
 bot_utils = BotUtils()
