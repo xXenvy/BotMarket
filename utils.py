@@ -35,7 +35,7 @@ class BotUtils:
 
     @property
     def bot_token(self) -> str:
-        return "MTExMTcxMzI3NDEyODUxMTEyNw.Gc-azU.H92xpaZPw1mRVFlmMQS0ggfXdTUQUwUOckp-6Q"
+        return "TOKEN"
 
 
 class Avatars:
